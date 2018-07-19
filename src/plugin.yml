@@ -1,0 +1,8 @@
+name: FiryWords
+author: Firelove
+version: 1.0
+main: me.firelove.firywords.main.Main
+commands:
+     firywords:
+          description: The only command of the plugin.
+          aliases: [fierywords_firelove]

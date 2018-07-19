@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FiryWords">
+    <output-path>$PROJECT_DIR$/../../Minecraft - Test/plugins</output-path>
+    <root id="archive" name="FiryWords.jar">
+      <element id="module-output" name="FiryWords" />
+    </root>
+  </artifact>
+</component>
