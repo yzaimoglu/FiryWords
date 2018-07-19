@@ -14,7 +14,7 @@ import java.io.File;
 public class Main extends JavaPlugin {
 
     public static String NAME = "FiryWords";
-    public static double VERSION = 1.0;
+    public static double VERSION = 1.1;
     public static String AUTHOR = "Firelove";
 
     @Override
